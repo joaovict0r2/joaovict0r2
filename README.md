@@ -1,7 +1,7 @@
 # João Victor 🤠
 
 🚀 Enthusiast of web & mobile development technologies. 🚀<br>
-🚀 Student at technical school ETEC | Systems Development. 🚀 
+🚀 Student at technical school ETEC | Systems Development. 🚀<br><br>
   <a href="https://www.linkedin.com/in/joao-vict0r/">
         <img 
             alt="Linkedin João Victor" 

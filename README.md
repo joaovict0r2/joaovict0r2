@@ -1,7 +1,7 @@
 # João Victor 🤠
 
 🚀 Enthusiast of web & mobile development technologies. 🚀<br>
-🚀 Student at technical school ETEC | Systems Development. 🚀<br><br>
+🚀 Student at technical school ETEC | Systems Development. 🚀<br>
 🚀 Front-End developer at Burh | Recruitment and Selection Platform.. 🚀<br><br>
   <a href="https://www.linkedin.com/in/joao-vict0r/">
         <img 

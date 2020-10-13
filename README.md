@@ -2,6 +2,7 @@
 
 🚀 Enthusiast of web & mobile development technologies. 🚀<br>
 🚀 Student at technical school ETEC | Systems Development. 🚀<br><br>
+🚀 Front-End developer at Burh | Recruitment and Selection Platform.. 🚀<br><br>
   <a href="https://www.linkedin.com/in/joao-vict0r/">
         <img 
             alt="Linkedin João Victor" 
@@ -19,7 +20,7 @@
 
 <strong>Programming</strong>
 <ul>
-  <li>Vue.js, Bootstrap...</li>  
+  <li>Vue.js, Nuxt.js, Bootstrap...</li>  
   <li>JavaScript, Node.js...</li>
   <li>ReactJS, React Native...</li>
   <li>Systems Development in ETEC school</li>

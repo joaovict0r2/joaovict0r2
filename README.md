@@ -21,7 +21,6 @@
 <strong>Programming</strong>
 <ul>
   <li>Vue.js, Nuxt.js, Bootstrap...</li>  
-  <li>JavaScript, Node.js...</li>
-  <li>ReactJS, React Native...</li>
-  <li>Systems Development in ETEC school</li>
+  <li>HTML, CSS, JavaScript...</li>
+  <li>ReactJS, React Native, Node.js...</li>
 </ul>

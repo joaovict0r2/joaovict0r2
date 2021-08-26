@@ -2,7 +2,7 @@
 
 🚀 Enthusiast of web & mobile development technologies. 🚀<br>
 🚀 Formed at technical school ETEC | Systems Development. 🚀<br>
-🚀 Front-End developer at Burh | Recruitment and Selection Platform.. 🚀<br><br>
+🚀 Front-End developer at Lionsoft | Digital Solutions.. 🚀<br><br>
   <a href="https://www.linkedin.com/in/joao-vict0r/">
         <img 
             alt="Linkedin João Victor" 
@@ -20,7 +20,7 @@
 
 <strong>Programming</strong>
 <ul>
-  <li>Vue.js, Nuxt.js, Bootstrap...</li>  
+  <li>ReactJS, React Native...</li>
+  <li>Next.js, Node.js...</li>
   <li>HTML, CSS, JavaScript...</li>
-  <li>ReactJS, React Native, Node.js...</li>
 </ul>

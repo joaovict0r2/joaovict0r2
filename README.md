@@ -1,8 +1,8 @@
 # João Victor 🤠
 
-🚀 Enthusiast of web & mobile development technologies. 🚀<br>
+🚀 Enthusiast of web & fullstack development. 🚀<br>
 🚀 Formed at technical school ETEC | Systems Development. 🚀<br>
-🚀 Front-End developer at Lionsoft | Digital Solutions.. 🚀<br><br>
+🚀 Front-End Engineer at Atlas Technologies 🚀<br><br>
   <a href="https://www.linkedin.com/in/joao-vict0r/">
         <img 
             alt="Linkedin João Victor" 

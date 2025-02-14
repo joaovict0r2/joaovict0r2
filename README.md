@@ -35,3 +35,6 @@ I'm João, a Computer technician, Software Engineer and drummer, Enthusiastic ab
   <a href="mailto:joaovictorcsantos13@gmail.com" target="_blank">
     <img src="https://static.cdnlogo.com/logos/g/37/gmail-icon.svg" width="52" height="40" alt="twitter logo"  />
   </a>
+
+##
+![](https://github-readme-stats.vercel.app/api?username=joaovict0r2&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovict0r2&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)

@@ -1,6 +1,6 @@
 # Hey 👍 What's up ?
 
-I’m João, a computer technician, software engineer and drummer, enthusiastic about Web3 and AI. Working with Front-end Development.
+I’m João, a computer technician, software engineer and drummer, enthusiastic about Web Performance and AI. Working with Front-end Development.
 
 ## About me
 🌍 Working for a major player in the industry in Brazil <br>

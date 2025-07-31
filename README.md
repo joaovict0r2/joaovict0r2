@@ -33,11 +33,3 @@ I’m João, a computer technician, software engineer and drummer, enthusiastic 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
 </div>
-
-## Contact
-<a href="https://www.linkedin.com/in/joao-vict0r/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:joaovictorcsantos13@gmail.com" target="_blank">
-    <img src="https://static.cdnlogo.com/logos/g/37/gmail-icon.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
